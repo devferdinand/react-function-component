@@ -14,4 +14,4 @@ export const comments = [
       username: 'BuryHeadInSand',
       comment: 'Wild ostriches make the best pets.'
     }
-  ]
+]
